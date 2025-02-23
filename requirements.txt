@@ -1,0 +1,13 @@
+torch>=2.0.0
+numpy>=1.24.0
+pandas>=1.3.0
+matplotlib>=3.4.0
+requests>=2.26.0
+python-dotenv>=1.0.0
+scikit-learn>=1.2.0
+jupyter>=1.0.0
+seaborn>=0.12.0
+Pillow>=10.0.0  # For image processing
+pytesseract>=0.3.10  # For OCR
+mss>=9.0.1  # For screen capture
+opencv-python>=4.8.0  # For image processing
